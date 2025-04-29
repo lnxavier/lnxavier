@@ -11,7 +11,7 @@ Desenvolvi meu próprio site pessoal para apresentar melhor meus trabalhos, habi
 👉 Acesse meu portfólio: [https://portfolio-1yjo.onrender.com/](https://portfolio-1yjo.onrender.com/)
 
 [![GitHub Follow](https://img.shields.io/github/followers/lnxavier?label=Seguir&style=social)](https://github.com/lnxavier)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/lucas-nathaniel-xavier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/lucasnathaniell/)
 
 ---
 
