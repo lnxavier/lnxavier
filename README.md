@@ -10,6 +10,9 @@ Desenvolvi meu próprio site pessoal para apresentar melhor meus trabalhos, habi
 
 👉 Acesse meu portfólio: [https://portfolio-1yjo.onrender.com/](https://portfolio-1yjo.onrender.com/)
 
+[![GitHub Follow](https://img.shields.io/github/followers/lnxavier?label=Seguir&style=social)](https://github.com/lnxavier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Nathaniel%20Xavier-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/lucas-nathaniel-xavier)
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -71,14 +74,6 @@ Desenvolvi meu próprio site pessoal para apresentar melhor meus trabalhos, habi
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lnxavier&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
   <img 
     align="left" 
     alt="GitHub Stats" 
