@@ -2,11 +2,11 @@
 
 ### Desenvolvedor Web
 
-Olá! Meu nome é Lucas Nathaniel Xavier, tenho 22 anos e sou formado em **Análise e Desenvolvimento de Sistemas**. Atualmente, estou cursando **Engenharia de Software** e sigo me aperfeiçoando cada vez mais na área de tecnologia.
+Olá! Meu nome é Lucas Nathaniel Xavier, tenho 22 anos e sou formado em **Análise e Desenvolvimento de Sistemas**. Atualmente, estou cursando **Engenharia de Software** e sigo me aperfeiçoando cada vez mais na área de desenvolvimento.
 
 Estou à procura de uma oportunidade no mercado de trabalho para aplicar na prática tudo o que venho aprendendo, tanto na graduação quanto nos projetos pessoais.
 
-Desenvolvi meu próprio site pessoal (portfólio) para apresentar melhor meus trabalhos, habilidades e experiências.
+Desenvolvi meu próprio site pessoal para apresentar melhor meus trabalhos, habilidades e experiências.
 
 👉 Acesse meu portfólio: [https://portfolio-1yjo.onrender.com/](https://portfolio-1yjo.onrender.com/)
 
